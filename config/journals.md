@@ -51,11 +51,14 @@ Functional Ecology
 Landscape Ecology
 Ecosystems
 Frontiers in Ecology and the Environment
+Frontiers in Ecology and Evolution
+Frontiers in Forests and Global Change
 The American Naturalist
 Ecography
 Biodiversity and Conservation
 Animal Conservation
 Perspectives in Plant Ecology, Evolution and Systematics
+Perspectives in Ecology and Conservation
 Basic and Applied Ecology
 Plant Ecology
 Evolutionary Applications
@@ -116,3 +119,21 @@ Geoscientific Model Development
 Big Earth Data
 Bioacoustics
 National Bureau of Economic Research
+Business Strategy and the Environment
+Journal of Industrial Ecology
+Accounting, Auditing & Accountability
+Communications Biology
+Communications Earth & Environment
+Current Opinion in Environmental Sustainability
+Ecology and Evolution
+Ecosphere
+Environmental Evidence
+Journal of Cleaner Production
+Journal of Environmental Management
+Journal of Sustainable Finance and Accounting
+Journal of Sustainable Finance & Investing
+Land Use Policy
+Nature Reviews Biodiversity
+PLOS Biology
+PLOS Climate
+Review of Finance
